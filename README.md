@@ -3,7 +3,6 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/downloads/Heisenberg3666/AutoReplace/total?style=for-the-badge)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/)
 
-A plugin that replaces SCPs that leave early in the game. 
 AutoReplace is a plugin using the NWPluginAPI framework to replace SCPs that have either left, crashed or been kicked with another player.
 
 ## Authors
