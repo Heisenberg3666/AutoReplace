@@ -41,8 +41,8 @@
         <Reference Include="Mirror">
           <HintPath>..\..\..\Master(1)\Mirror.dll</HintPath>
         </Reference>
-        <Reference Include="PluginAPI, Version=13.1.0.0, Culture=neutral, processorArchitecture=Amd64">
-          <HintPath>..\packages\Northwood.PluginAPI.13.1.0\lib\net48\PluginAPI.dll</HintPath>
+        <Reference Include="PluginAPI, Version=13.1.1.0, Culture=neutral, processorArchitecture=Amd64">
+          <HintPath>..\packages\Northwood.PluginAPI.13.1.1\lib\net48\PluginAPI.dll</HintPath>
         </Reference>
         <Reference Include="System" />
         <Reference Include="System.Core" />
@@ -68,6 +68,7 @@
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
+      <None Include="App.config" />
       <None Include="packages.config" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

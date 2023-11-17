@@ -11,7 +11,7 @@ namespace AutoReplace
         [PluginConfig]
         public Config Config;
 
-        [PluginEntryPoint("AutoReplace", "1.0.0.0", 
+        [PluginEntryPoint("AutoReplace", "1.0.1", 
             "A plugin that replaces SCPs that leave early in the game.", "Heisenberg3666")]
         private void LoadPlugin()
         {
